@@ -13,8 +13,8 @@
     </parent>
 
     <modules>
-        <module>../JCuda/JCudaJava</module>
-        <module>../JCublas/JCublasJava</module>
+        <module>../JCuda</module>
+        <module>../JCublas</module>
     </modules>
 
     <build>
